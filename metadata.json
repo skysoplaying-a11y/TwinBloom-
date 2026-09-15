@@ -1,0 +1,6 @@
+{
+  "name": "TwinBloom",
+  "description": "Child Development Digital Twin — AI-powered child-development and learning support platform with personalized digital profiles, progress analytics, and intelligent recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
